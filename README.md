@@ -16,9 +16,12 @@ CEIT student at Yıldız Technical University in Istanbul. I love libre software
 
 ## Currently
 
-Getting comfortable with Godot, configuring my home server, learning Chinese, and writing JavaScript.<img width="35" alt="cirno fumo spinning" src="https://github.com/user-attachments/assets/34949857-f325-45f8-bf72-effcf23927db" />
+Getting comfortable with Godot, configuring my home server, learning Chinese, and writing JavaScript.<a href="https://furkannali.github.io"><img width="35" alt="cirno fumo spinning" src="https://github.com/user-attachments/assets/34949857-f325-45f8-bf72-effcf23927db" /></a>
 
 
 ## Find me
 
-Open to talk about anything! · [LinkedIn](https://www.linkedin.com/in/furkan-ali-duyma%C3%A7-610503239/)<img width="40" alt="cirno fumo dancing" src="https://github.com/user-attachments/assets/e625c539-e945-4df5-83db-f1811b9e03a4" />
+More on my portfolio and socials
+- [Portfolio](https://furkannali.github.io)
+- [LinkedIn](https://www.linkedin.com/in/furkan-ali-duyma%C3%A7-610503239/)
+- <a href="https://furkannali.github.io"><img width="40" alt="cirno fumo dancing" src="https://github.com/user-attachments/assets/e625c539-e945-4df5-83db-f1811b9e03a4" /></a>
